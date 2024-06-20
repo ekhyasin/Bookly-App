@@ -1,6 +1,6 @@
 # booklyapp
 
-A new Flutter project.
+Bookly App (Clean Architecture in Flutter with Bloc State Management ) 💻💪 .
 
 ## Getting Started
 
